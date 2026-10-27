@@ -1,6 +1,9 @@
 # My C# Learning Journey
 A collection of my reflections, learning notes, and progress in C#, as a former competitive programmer transitioning from C++ to C#.
 
+If you're interested in learning C#, I've found out that there's a free C# course from Microsoft themselves, you could try checking them out!
+https://devblogs.microsoft.com/dotnet/announcing-foundational-csharp-certification?wt.mc_id=studentamb_649234
+
 # 🐰 Who am I?  
 
 Greetings, everyone.  
